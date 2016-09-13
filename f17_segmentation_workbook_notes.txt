@@ -1,0 +1,9 @@
+Segmentation Notes
+
+_Assumptions_
+1. The category books, Youth, Footwear, Equipment, and Accessories, contain NO segmented product at all.
+2. Outdoor Lifestyle gets both the B+M Snow supplement and the Ski-Mo supplement, but does NOT get the snow specialty book
+3. Ski Specialty and Surf_Ski_Snow T1 and T2 get the B+M Snow and Ski-Mo. T3 does not get these books. 
+4. Footwear Specialty and Chain can buy the Jerry and Pendleton footwear. This is counter the 8/24 matrix and assumes that footwear accounts being segmented out is an error. 
+5. Lifestyle T1 and T2 get Pendleton 
+6. Sporting Goods T1 and T2 do NOT get Pendleton
