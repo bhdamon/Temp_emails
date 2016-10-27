@@ -1,18 +1,18 @@
-Hi Jacob, 
+Hi Jacob,
 
-1. Yes, the gondola cost is roughly accurate. We spec'd this with Kerri last year for a Sport Chalet Homestead presentation that obviously never happened. 
+1. Yes, the gondola cost is roughly accurate. We spec'd this with Kerri last year for a Sport Chalet Homestead presentation that obviously never happened. The open question is the cost of the tent platform.
 
-2. Yes, once you and EMS management are all on board I'd hammer out the actual buy with the category buyer. EMS would transmit the inital floor set as a PO, and we'd put the flows on a bulk. Based on sales every two weeks the buyer would transmit a pull from that bulk. The idea is that AOI would be communicating what should be pulled, and EMS is just entering the order without much back and forth. 
+2. Yes, we would reserve the product. Once you and EMS management are all on board I'd hammer out the actual buy with the category buyer. EMS would transmit the initial floor set as a PO, and we'd put the flows on a bulk. Based on sales every two weeks the buyer would transmit a pull from that bulk. The idea is that AOI would be communicating what should be pulled, and EMS is entering and transmitting the order without much back and forth.
 
-3. I think you are correct about the fixtures taking the full ammount of lead time that we have between now and Feb 25th. My concern on pulling this forward to F16 is theefold:
+3. We recommend holding this program to a S16 launch for three reasons.
 
-a) Without the fixtures, you lose the visual power of the shop, probably impacting consumer sales. If the shop is not successful in the first three months, EMS management is not likely to follow through with the two or three years of participation that gives the initail TNF fixture investment a good return. 
+     a) You are correct about the lead time on the fixtures. Without the fixtures, we lose the visual power of the shop, probably impacting consumer sales. One of the risks here is shop performance. Unless the shop shows successful sales in the first three months, EMS management might not follow through with the two or three years of participation that gives the initial TNF fixture investment a full ROI.
 
-b) I looked at F16 ATS against this assortment, and it's not a pretty picture. 
+     b) I looked at F16 ATS against this assortment, and in my opinion it would be a challenge to fill the shop.  All the tech packs would need to RA two months after they hit the floor to make room for new S17 colors, and tent/bag ATS is quite limited.
 
-c) The ability of EMS to ship thier full F16 apparel orderbook as written based on the 2m combined credit line is still to be proven. I don't think we can confidently refresh this shop on time with POs going on/off hold at unpredictable times. 
+     c) The ability of EMS to ship their full F16 apparel order-book as written based on the 2m combined VFO credit line is an open question. It could be a challenge to ship/refresh this shop on time with POs going on/off hold at unpredictable moments.
 
-That said, if you, Tony and Francois want us to sell it in for F16 we will do so. It's just not what we'd reccomend.
+Let me know if you have any other questions.
 
 Thanks,
 
